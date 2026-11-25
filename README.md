@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been learning to code for 2 years, proficient HTML, CSS, JavaScript, React, NextJS, Tailwind.
+I've been learning to code for 3 years, proficient HTML, CSS, JavaScript, React, NextJS, Tailwind.
 
 *   🌍  I'm based in Da Nang, Viet Nam
 *   ✉️  You can contact me at [duythanhit203@gmail.com](mailto:duythanhit203@gmail.com)
@@ -22,13 +22,9 @@ I've been learning to code for 2 years, proficient HTML, CSS, JavaScript, React,
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.github.com/thanhit23" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                     </p>
+### Badges
+                    <b>My GitHub Stats</b><a
                       href="http://www.github.com/thanhit23"><img src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thanhit23's GitHub stats" /></a><a
                       href="http://www.github.com/thanhit23"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/thanhit23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/thanhit23/rose-petals" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhit23&repo=rose-petals&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
